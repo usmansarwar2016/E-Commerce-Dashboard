@@ -104,13 +104,13 @@ Interactive Slicers
 
 The main objective of this project is to convert raw e-commerce data into an interactive business intelligence dashboard that allows users to quickly understand and analyze:
 
-1) Revenue performance
-2) Sales quantity
-3) Average pricing
-4) Customer spending
-5) Monthly sales trends
-6) Top-performing unit types
-7) Country-wise sales
-8) Geographical sales distribution
+####  1) Revenue performance
+####  2) Sales quantity
+####  3) Average pricing
+####  4) Customer spending
+####  5) Monthly sales trends
+####  6) Top-performing unit types
+####  7) Country-wise sales
+####  8) Geographical sales distribution
 
 The dashboard demonstrates the use of Power BI, DAX, data transformation, and effective data visualization techniques to create a user-friendly analytical report.
